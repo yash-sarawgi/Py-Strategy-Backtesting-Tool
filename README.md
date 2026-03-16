@@ -54,7 +54,7 @@ Contributions, suggestions, and improvements are welcome.
 Clone the repository:
 
 ``` bash
-git clone https://github.com/<your-username>/Py-Strategy-Backtesting-Tool.git
+git clone https://github.com/yash-sarawgi/Py-Strategy-Backtesting-Tool.git
 cd Py-Strategy-Backtesting-Tool
 ```
 
@@ -134,6 +134,22 @@ strategies.
 
 ------------------------------------------------------------------------
 
+## Builder
+
+**Yash Sarawgi**\
+CFTe \| CMT Level III\
+Trader & Equity Research
+
+------------------------------------------------------------------------
+
+## Disclaimer
+
+This project is intended for **educational and research purposes
+only**.\
+It does **not constitute financial advice or trading recommendations**.
+
+------------------------------------------------------------------------
+
 ## Contributing
 
 Contributions are welcome.
@@ -159,8 +175,8 @@ If you would like to improve the project:
 
 ------------------------------------------------------------------------
 
-## Disclaimer
+# License
 
-This tool is intended for **research and educational purposes only**.
+This project is licensed under the MIT License.
 
-It should **not be used as financial advice or live trading software**.
+See the `LICENSE` file for details.
