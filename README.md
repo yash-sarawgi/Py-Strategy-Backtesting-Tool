@@ -175,8 +175,8 @@ If you would like to improve the project:
 
 ------------------------------------------------------------------------
 
-# License
+## License & Usage Restrictions
 
-This project is licensed under the MIT License.
+This repository is licensed under CC BY-NC 4.0.
 
 See the `LICENSE` file for details.
